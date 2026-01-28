@@ -2,7 +2,7 @@
 Terminal-based and Better than Windows Explorer Search :)
 Pop is a high-performance, low-memory, terminal-based file and folder search engine built from scratch in Rust. It utilizes pre-built indexing in a SQLite database to deliver instant search results, significantly outperforming live disk scanning.
 
-## Author
+## Me, Myself and The Rustacean :)
 
 - **TheCaax** - [TheCaax](https://github.com/TheCaax)
 
