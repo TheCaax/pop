@@ -1,7 +1,14 @@
 # ⚡ Pop: Blazing-Fast File Search Engine 
 Terminal-based and Better than Windows Explorer Search :)
-
 Pop is a high-performance, low-memory, terminal-based file and folder search engine built from scratch in Rust. It utilizes pre-built indexing in a SQLite database to deliver instant search results, significantly outperforming live disk scanning.
+
+## Author
+
+- **TheCaax** - [TheCaax](https://github.com/TheCaax)
+
+I built Pop to solve my own frustration with the slow and often unreliable search functionality found in standard file explorers. My goal was to create a lightweight, terminal-centric tool that offers instantaneous results through efficient indexing, providing a seamless experience for developers who live in the command line.
+
+
 
 ## 🚀 Key Features
 
@@ -115,4 +122,4 @@ Pop features a "premium" terminal aesthetics:
 
 ---
 
-Built with performance and maintainability in mind.
+Built with performance and maintainability in mind. I try to make it as good as possible.
