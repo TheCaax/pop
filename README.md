@@ -2,20 +2,18 @@
 Terminal-based and Better than Windows Explorer Search :)
 Pop is a high-performance, low-memory, terminal-based file and folder search engine built from scratch in Rust. It utilizes pre-built indexing in a SQLite database to deliver instant search results, significantly outperforming live disk scanning.
 
-## ⚓ Myself :)
-
-- **TheCaax** - [TheCaax](https://github.com/TheCaax)
+## ⚓ WHY? :)
 
 I built Pop to solve my own frustration with the slow and often unreliable search functionality found in standard file explorers. My goal was to create a lightweight, terminal-centric tool that offers instantaneous results through efficient indexing, providing a seamless experience for developers who live in the command line.
 
 
 
-## 🚀 Key Features
+## 🚀 Key Things
 
 - **Pre-indexing Model**: Index once, query instantly. No more waiting for slow disk scans.
-- **Extreme Performance**: Parallel filesystem scanning with batch database insertions.
-- **Advanced Filtering**: Search by name, regex, extension, size expressions, date ranges, and file type.
-- **Professional UI**: Clean, colored terminal output with headers, type tags, and highlighted matches.
+- **Best Performance**: Parallel filesystem scanning with batch database insertions.
+- **Moderate Filtering**: Search by name, regex, extension, size expressions, date ranges, and file type.
+- **Nice looking UI**: Clean, colored terminal output with headers, type tags, and highlighted matches.
 - **Detailed Summaries**: Get counts of matched files, directories, and total combined size.
 - **Low Footprint**: Minimal RAM usage and fast startup times.
 
@@ -34,7 +32,7 @@ cargo build --release
 # The binary will be located at ./target/release/pop
 ```
 
-### Or just donwload the **.exe** file from the releases page.
+### Or just donwload the **.exe** file from the [releases](https://github.com/TheCaax/pop/releases) page.
 
 ## 📖 Usage Guide
 
@@ -122,4 +120,8 @@ Pop features a "premium" terminal aesthetics:
 
 ---
 
+**TheCaax** - [TheCaax](https://github.com/TheCaax)
+---
 I try to make it as good as possible for me.
+
+
