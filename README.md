@@ -118,7 +118,7 @@ Pop features a "premium" terminal aesthetics:
 
 ---
 
-**TheCaax** - [TheCaax](https://github.com/TheCaax)
+**Creator** - [TheCaax](https://github.com/TheCaax)
 ---
 I try to make it as good as possible for me.
 
