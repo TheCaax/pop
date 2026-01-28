@@ -122,4 +122,4 @@ Pop features a "premium" terminal aesthetics:
 
 ---
 
-Built with performance and maintainability in mind. I try to make it as good as possible.
+I try to make it as good as possible for me.
