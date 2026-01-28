@@ -57,7 +57,7 @@ pub fn execute_search(db: &Database, cli: &Cli) -> Result<Vec<SearchResult>> {
     }
 
     // Regex is handled post-query because SQLite doesn't have native REGEXP by default
-    // However, if we want to be "blazing fast", we should try to filter as much as possible in SQL.
+    // However, if we want to be fast, we should try to filter as much as possible in SQL.
 
     if let Some(ref sort_field) = cli.sort {
         let field = match sort_field.as_str() {
